@@ -19,7 +19,7 @@ driving wheeled vehicles. Another method that exists are the driving of omnidire
 This allows for the vehicle immediately move in one direction or the other wiithout having to perform
 turning mechanisms. The image below illustrates this concept.
 
-![MecanumWheelDirections](images\mecanumWheelDirections.png)
+![MecanumWheelDirections](images/mecanumWheelDirections.png)
 
 ## Implementation
 This is what is hoped to be implemented with "PAC-BOT". A omni-directional, room mapping
